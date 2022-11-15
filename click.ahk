@@ -5,14 +5,14 @@ F12::ExitApp
 F11::Reload
 Pause::Suspend
 
-A::
+B::
 If cont {
     cont := False
 }
 Else {
     cont := True
     While cont {
-        MouseClick, Left, 1300, 560
+        MouseClick, Left, 1301, 560
     }
 }
 Return
