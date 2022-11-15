@@ -12,7 +12,7 @@ If cont {
 Else {
     cont := True
     While cont {
-        MouseClick, Left, 1301, 560
+        MouseClick, Left, 1501, 560
     }
 }
 Return
